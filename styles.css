@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: lightblue;
+    
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.mini {
+    width: 150px;
+    height: auto;
+}
